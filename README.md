@@ -1,0 +1,2 @@
+# g-shop
+TIENDA EN LIENA Y PUNTO DE VENTA
